@@ -1,6 +1,6 @@
 # fritz_phonebook – FritzBox Phonebook → Home Assistant → MicroSIP
 
-An [AppDaemon](https://appdaemon.readthedocs.io/) app for [Home Assistant](https://www.home-assistant.io/) that reads the AVM FRITZ!Box phonebook via TR-064 and writes a MicroSIP-compatible `contacts.xml`, served directly by Home Assistant's built-in HTTP server.
+An [AppDaemon](https://appdaemon.readthedocs.io/) app for [Home Assistant](https://www.home-assistant.io/) that reads the [AVM FRITZ!Box](https://fritz.com/) phonebook via TR-064 and writes a [MicroSIP](https://www.microsip.org/)-compatible `contacts.xml`, served directly by Home Assistant's built-in HTTP server.
 
 ## How it works
 
